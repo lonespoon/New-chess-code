@@ -1,4 +1,4 @@
-package utep.lab1;
+
 
 import java.io.*;
 import java.util.*;
@@ -56,7 +56,7 @@ public class Main {
                 }
             }
         } catch (NumberFormatException e) {
-            // TODO Auto-generated catch block
+            
             e.printStackTrace();
         }
     }
