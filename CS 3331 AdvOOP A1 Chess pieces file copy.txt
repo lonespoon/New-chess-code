@@ -1,0 +1,6 @@
+King, black, a, 1
+Rook, black, h, 8
+Queen, white, d, 2
+Bishop, white, c, 3
+Knight, white, f, 4
+Pawn, black, g, 2
